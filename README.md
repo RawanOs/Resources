@@ -1,8 +1,7 @@
 
  <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="100" height="100" src="file:///Users/rawan/Desktop/1.png
-"> <br/> Reference <br/>
+<h3><img align="left" width="100" height="100" src="file:///Users/rawan/Desktop/1.png"> <br/> Reference <br/>
 <a href="https://vimeo.com/789425500">Demo</a> <br/> <a href="https://drive.google.com/file/d/1EwOafqZzuy2Xb0nmzhiyTHSkMvtEiswI/view?usp=share_link">Test-Flight</a>  <br/> <br/> </h3>   
  </div>   
  
