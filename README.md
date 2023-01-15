@@ -1,9 +1,7 @@
 
  <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="100" height="100" src="
-![logoo](https://user-images.githubusercontent.com/89946063/212540717-2a6c4a17-f69a-497e-a6e2-46be8b09f57e.png)
-"> <br/> Reference <br/>
+<h3><img width="100" height="100" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212540906-88839a03-2768-46f4-a289-51a080cba6c4.png"> <br/> Reference <br/>
 <a href="https://vimeo.com/789425500">Demo</a> <br/> <a href="https://drive.google.com/file/d/1EwOafqZzuy2Xb0nmzhiyTHSkMvtEiswI/view?usp=share_link">Test-Flight</a>  <br/> <br/> </h3>   
  </div>   
  
@@ -42,3 +40,4 @@ A place for people who have hard way to keep their resources organized in one pl
 </p>
 
 <img width="1003" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212540820-c1ed6277-8917-425b-9614-b4bab362f0e1.png">
+
