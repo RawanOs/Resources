@@ -1,7 +1,7 @@
 
  <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="170" height="170" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212541231-c845727f-1487-4f4f-ad75-86f3bbdc5cea.png"> <br/> Reference <br/>
+<h3><img align="left" width="150" height="150" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212541231-c845727f-1487-4f4f-ad75-86f3bbdc5cea.png"> <br/> Reference <br/>
 <a href="https://vimeo.com/789425500">Demo</a> <br/> <a href="https://drive.google.com/file/d/1EwOafqZzuy2Xb0nmzhiyTHSkMvtEiswI/view?usp=share_link">Test-Flight</a>  <br/> <br/> </h3>   
  </div>   
  
