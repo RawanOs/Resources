@@ -38,5 +38,4 @@ A place for people who have hard way to keep their resources organized in one pl
 <p align="center">
 </p>
 
-<img width="1003" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212540820-c1ed6277-8917-425b-9614-b4bab362f0e1.png">
-
+<img width="1100" alt="Test " src="https://user-images.githubusercontent.com/89946063/212541431-ac1d5b78-ae14-4f7b-a989-d6338810500f.png">
