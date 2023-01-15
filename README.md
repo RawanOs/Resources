@@ -2,10 +2,8 @@
  <!-- PROJECT LOGO -->
 <div>
 <h3><img align="left" width="130" height="130" alt="ResourcessApp" src="https://user-images.githubusercontent.com/89946063/212541231-c845727f-1487-4f4f-ad75-86f3bbdc5cea.png"> <br/> Reference <br/>
-  <br/> <br/> </h3>   
+  <a href="https://vimeo.com/789425500">Demo</a> <br/> <br/> <br/> </h3>   
  </div>   
- 
-
 
 <video src="https://vimeo.com/789425500" controls="controls" style="max-width: 730px;">
 </video>
